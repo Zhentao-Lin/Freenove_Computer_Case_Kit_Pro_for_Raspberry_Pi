@@ -10,10 +10,10 @@ We offer options with 1, 2, or 4 SSD slots, with or without a display, and with 
 
 Here are some of our product displays to give you a more intuitive understanding of the product's appearance design and structural features:
 
-<img src="Picture/FNK0107L.PT03.jpg" style="width:100%">
+<img src="Picture/FNK0107L.PT03.jpg" style="width:80%">
 *FNK0107L - 4-slot version without display, supports 1 SSD installation*
 
-<img src="Picture/FNK0107W.PT03.jpg" style="width:100%">
+<img src="Picture/FNK0107W.PT03.jpg" style="width:80%">
 *FNK0107W - 4-slot version with display, supports 1 SSD installation*
 
 For details, please refer to the table below.
@@ -22,18 +22,18 @@ For details, please refer to the table below.
 
 | Model       | Slot Count | With Display | SSD Support | Image Preview |
 |-------------|------------|--------------|-------------|---------------|
-| `FNK0107A`  | 1 Slot     | No           | No          | <img src="Picture/FNK0107A.jpg" width="50%"> |
-| `FNK0107B`  | 2 Slots    | No           | No          | <img src="Picture/FNK0107B.jpg" width="50%"> |
-| `FNK0107C`  | 4 Slots    | No           | No          | <img src="Picture/FNK0107C.jpg" width="50%"> |
-| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | <img src="Picture/FNK0107H.jpg" width="50%"> |
-| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | <img src="Picture/FNK0107K.jpg" width="50%"> |
-| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | <img src="Picture/FNK0107L.jpg" width="50%"> |
-| `FNK0107P`  | 1 Slot     | Yes          | No          | <img src="Picture/FNK0107P.jpg" width="50%"> |
-| `FNK0107Q`  | 2 Slots    | Yes          | No          | <img src="Picture/FNK0107Q.jpg" width="50%"> |
-| `FNK0107R`  | 4 Slots    | Yes          | No          | <img src="Picture/FNK0107R.jpg" width="50%"> |
-| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | <img src="Picture/FNK0107U.jpg" width="50%"> |
-| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | <img src="Picture/FNK0107V.jpg" width="50%"> |
-| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | <img src="Picture/FNK0107W.jpg" width="50%"> |
+| `FNK0107A`  | 1 Slot     | No           | No          | <div align="center"><img src="Picture/FNK0107A.jpg" width="50%"></div> |
+| `FNK0107B`  | 2 Slots    | No           | No          | <div align="center"><img src="Picture/FNK0107B.jpg" width="50%"></div> |
+| `FNK0107C`  | 4 Slots    | No           | No          | <div align="center"><img src="Picture/FNK0107C.jpg" width="50%"></div> |
+| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | <div align="center"><img src="Picture/FNK0107H.jpg" width="50%"></div> |
+| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | <div align="center"><img src="Picture/FNK0107K.jpg" width="50%"></div> |
+| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | <div align="center"><img src="Picture/FNK0107L.jpg" width="50%"></div> |
+| `FNK0107P`  | 1 Slot     | Yes          | No          | <div align="center"><img src="Picture/FNK0107P.jpg" width="50%"></div> |
+| `FNK0107Q`  | 2 Slots    | Yes          | No          | <div align="center"><img src="Picture/FNK0107Q.jpg" width="50%"></div> |
+| `FNK0107R`  | 4 Slots    | Yes          | No          | <div align="center"><img src="Picture/FNK0107R.jpg" width="50%"></div> |
+| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107U.jpg" width="50%"></div> |
+| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107V.jpg" width="50%"></div> |
+| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107W.jpg" width="50%"></div> |
 
 * **Use command in console**
 

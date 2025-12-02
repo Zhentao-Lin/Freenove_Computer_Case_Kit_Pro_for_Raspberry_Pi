@@ -2,21 +2,6 @@
 
 > A computer case kit for Raspberry Pi 5.
 
-## Download
-
-* **Use command in console**
-
-	Run following command to download all the files in this repository.
-
-	git clone https://github.com/Freenove/Freenove_Computer_Case_Kit_Pro_for_Raspberry_Pi.git
-
-* **Manually download in browser**
-
-	Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window.
-	Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
-
-> If you meet any difficulties, please contact our support team for help.
-
 ## Introduction
 
 This computer case kit is specifically designed for Raspberry Pi 5. Due to different configurations, prices vary. Please choose according to your actual needs.
@@ -35,24 +20,30 @@ Here is one of our product displays to give you a more intuitive understanding o
 
 </div>
 
+## Download
+
+* **Use command in console**
+
+	Run following command to download all the files in this repository.
+
+	git clone https://github.com/Freenove/Freenove_Computer_Case_Kit_Pro_for_Raspberry_Pi.git
+
+* **Manually download in browser**
+
+	Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window.
+	Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+
+> If you meet any difficulties, please contact our support team for help.
+
 For details, please refer to the table below.
 
 ## Product Model Overview
 
-| Model       | Slot Count | With Display | SSD Support | Image Preview |
-|-------------|------------|--------------|-------------|---------------|
-| `FNK0107A`  | 1 Slot     | No           | No          | <div align="center"><img src="Picture/FNK0107A.jpg" width="50%"><br>*Actual sales do not include SSD.*</div> |
-| `FNK0107B`  | 2 Slots    | No           | No          | <div align="center"><img src="Picture/FNK0107B.jpg" width="50%"><br>*Actual sales do not include SSD.*</div> |
-| `FNK0107C`  | 4 Slots    | No           | No          | <div align="center"><img src="Picture/FNK0107C.jpg" width="50%"><br>*Actual sales do not include SSD.*</div> |
-| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | <div align="center"><img src="Picture/FNK0107H.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
-| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | <div align="center"><img src="Picture/FNK0107K.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
-| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | <div align="center"><img src="Picture/FNK0107L.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
-| `FNK0107P`  | 1 Slot     | Yes          | No          | <div align="center"><img src="Picture/FNK0107P.jpg" width="50%"><br>*Actual sales do not include SSD.*</div> |
-| `FNK0107Q`  | 2 Slots    | Yes          | No          | <div align="center"><img src="Picture/FNK0107Q.jpg" width="50%"><br>*Actual sales do not include SSD.*</div> |
-| `FNK0107R`  | 4 Slots    | Yes          | No          | <div align="center"><img src="Picture/FNK0107R.jpg" width="50%"><br>*Actual sales do not include SSD.*</div> |
-| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107U.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
-| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107V.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
-| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107W.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
+|  | No 4.3 Inch LCD |  |  | With 4.3 Inch LCD |  |  |  |
+|---|---|---|---|---|---|---|---|
+|  | 1 Slot | 2 Slots | 4 Slots | 1 Slot | 2 Slots | 4 Slots | 1 Slot | 2 Slots | 4 Slots |
+|  | 1 SSD | 1 SSD | 1 SSD | 1 Screen | 1 Screen | 1 Screen | 1 Screen | 1 Screen | 1 Screen |
+|  | `FNK0107A` | `FNK0107B` | `FNK0107C` | `FNK0107P` | `FNK0107Q` | `FNK0107R` | `FNK0107U` | `FNK0107V` | `FNK0107W` |
 
 
 ### Support

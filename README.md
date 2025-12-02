@@ -2,6 +2,21 @@
 
 > A computer case kit for Raspberry Pi 5.
 
+## Download
+
+* **Use command in console**
+
+	Run following command to download all the files in this repository.
+
+	git clone https://github.com/Freenove/Freenove_Computer_Case_Kit_Pro_for_Raspberry_Pi.git
+
+* **Manually download in browser**
+
+	Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window.
+	Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
+
+> If you meet any difficulties, please contact our support team for help.
+
 ## Introduction
 
 This computer case kit is specifically designed for Raspberry Pi 5. Due to different configurations, prices vary. Please choose according to your actual needs.
@@ -33,18 +48,7 @@ For details, please refer to the table below.
 | `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107U.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
 | `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107V.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
 | `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | <div align="center"><img src="Picture/FNK0107W.jpg" width="50%"><br>*Actual sales include only one SSD.*</div> |
-* **Use command in console**
 
-	Run following command to download all the files in this repository.
-
-	git clone https://github.com/Freenove/Freenove_Computer_Case_Kit_Pro_for_Raspberry_Pi.git
-
-* **Manually download in browser**
-
-	Click the green "Clone or download" button, then click "Download ZIP" button in the pop-up window.
-	Do NOT click the "Open in Desktop" button, it will lead you to install Github software.
-
-> If you meet any difficulties, please contact our support team for help.
 
 ### Support
 

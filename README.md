@@ -6,24 +6,34 @@
 
 This computer case kit is specifically designed for Raspberry Pi 5. Due to different configurations, prices vary. Please choose according to your actual needs.
 
-We offer options with 1, 2, or 4 SSD slots, with or without a display, and with or without one SSD. For details, please refer to the table below.
+We offer options with 1, 2, or 4 SSD slots, with or without a display, and with or without one SSD. 
+
+Here are some of our product displays to give you a more intuitive understanding of the product's appearance design and structural features:
+
+<img src="Picture/FNK0107L.PT03.jpg" style="width:100%">
+*FNK0107L - 4-slot version without display, supports 1 SSD installation*
+
+<img src="Picture/FNK0107W.PT03.jpg" style="width:100%">
+*FNK0107W - 4-slot version with display, supports 1 SSD installation*
+
+For details, please refer to the table below.
 
 ## Product Model Overview
 
 | Model       | Slot Count | With Display | SSD Support | Image Preview |
 |-------------|------------|--------------|-------------|---------------|
-| `FNK0107A`  | 1 Slot     | No           | No          | ![FNK0107A](Picture/FNK0107A.jpg) |
-| `FNK0107B`  | 2 Slots    | No           | No          | ![FNK0107B](Picture/FNK0107B.jpg) |
-| `FNK0107C`  | 4 Slots    | No           | No          | ![FNK0107C](Picture/FNK0107C.jpg) |
-| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | ![FNK0107H](Picture/FNK0107H.jpg) |
-| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | ![FNK0107K](Picture/FNK0107K.jpg) |
-| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | ![FNK0107L](Picture/FNK0107L.jpg) |
-| `FNK0107P`  | 1 Slot     | Yes          | No          | ![FNK0107P](Picture/FNK0107P.jpg) |
-| `FNK0107Q`  | 2 Slots    | Yes          | No          | ![FNK0107Q](Picture/FNK0107Q.jpg) |
-| `FNK0107R`  | 4 Slots    | Yes          | No          | ![FNK0107R](Picture/FNK0107R.jpg) |
-| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | ![FNK0107U](Picture/FNK0107U.jpg) |
-| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | ![FNK0107V](Picture/FNK0107V.jpg) |
-| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | ![FNK0107W](Picture/FNK0107W.jpg) |
+| `FNK0107A`  | 1 Slot     | No           | No          | <img src="Picture/FNK0107A.jpg" width="50%"> |
+| `FNK0107B`  | 2 Slots    | No           | No          | <img src="Picture/FNK0107B.jpg" width="50%"> |
+| `FNK0107C`  | 4 Slots    | No           | No          | <img src="Picture/FNK0107C.jpg" width="50%"> |
+| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | <img src="Picture/FNK0107H.jpg" width="50%"> |
+| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | <img src="Picture/FNK0107K.jpg" width="50%"> |
+| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | <img src="Picture/FNK0107L.jpg" width="50%"> |
+| `FNK0107P`  | 1 Slot     | Yes          | No          | <img src="Picture/FNK0107P.jpg" width="50%"> |
+| `FNK0107Q`  | 2 Slots    | Yes          | No          | <img src="Picture/FNK0107Q.jpg" width="50%"> |
+| `FNK0107R`  | 4 Slots    | Yes          | No          | <img src="Picture/FNK0107R.jpg" width="50%"> |
+| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | <img src="Picture/FNK0107U.jpg" width="50%"> |
+| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | <img src="Picture/FNK0107V.jpg" width="50%"> |
+| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | <img src="Picture/FNK0107W.jpg" width="50%"> |
 
 * **Use command in console**
 

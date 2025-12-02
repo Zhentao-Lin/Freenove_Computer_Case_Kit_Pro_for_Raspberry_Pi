@@ -39,12 +39,11 @@ For details, please refer to the table below.
 
 ## Product Model Overview
 
-|  | No 4.3 Inch LCD |  |  | With 4.3 Inch LCD |  |  |  |
+|  | No Display |  |  | With Display |  |  |  |
 |---|---|---|---|---|---|---|---|
 |  | 1 Slot | 2 Slots | 4 Slots | 1 Slot | 2 Slots | 4 Slots | 1 Slot | 2 Slots | 4 Slots |
 |  | 1 SSD | 1 SSD | 1 SSD | 1 Screen | 1 Screen | 1 Screen | 1 Screen | 1 Screen | 1 Screen |
 |  | `FNK0107A` | `FNK0107B` | `FNK0107C` | `FNK0107P` | `FNK0107Q` | `FNK0107R` | `FNK0107U` | `FNK0107V` | `FNK0107W` |
-
 
 ### Support
 

@@ -12,18 +12,18 @@ We offer options with 1, 2, or 4 SSD slots, with or without a display, and with 
 
 | Model       | Slot Count | With Display | SSD Support | Image Preview |
 |-------------|------------|--------------|-------------|---------------|
-| `FNK0107A`  | 1 Slot     | No           | None        | ![FNK0107A](Picture/FNK0107A.png) |
-| `FNK0107B`  | 2 Slots    | No           | None        | ![FNK0107B](Picture/FNK0107B.png) |
-| `FNK0107C`  | 4 Slots    | No           | None        | ![FNK0107C](Picture/FNK0107C.png) |
-| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | ![FNK0107H](Picture/FNK0107H.png) |
-| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | ![FNK0107K](Picture/FNK0107K.png) |
-| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | ![FNK0107L](Picture/FNK0107L.png) |
-| `FNK0107P`  | 1 Slot     | Yes          | None        | ![FNK0107P](Picture/FNK0107P.png) |
-| `FNK0107Q`  | 2 Slots    | Yes          | None        | ![FNK0107Q](Picture/FNK0107Q.png) |
-| `FNK0107R`  | 4 Slots    | Yes          | None        | ![FNK0107R](Picture/FNK0107R.png) |
-| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | ![FNK0107U](Picture/FNK0107U.png) |
-| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | ![FNK0107V](Picture/FNK0107V.png) |
-| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | ![FNK0107W](Picture/FNK0107W.png) |
+| `FNK0107A`  | 1 Slot     | No           | No          | ![FNK0107A](Picture/FNK0107A.jpg) |
+| `FNK0107B`  | 2 Slots    | No           | No          | ![FNK0107B](Picture/FNK0107B.jpg) |
+| `FNK0107C`  | 4 Slots    | No           | No          | ![FNK0107C](Picture/FNK0107C.jpg) |
+| `FNK0107H`  | 1 Slot     | No           | 1 SSD       | ![FNK0107H](Picture/FNK0107H.jpg) |
+| `FNK0107K`  | 2 Slots    | No           | 1 SSD       | ![FNK0107K](Picture/FNK0107K.jpg) |
+| `FNK0107L`  | 4 Slots    | No           | 1 SSD       | ![FNK0107L](Picture/FNK0107L.jpg) |
+| `FNK0107P`  | 1 Slot     | Yes          | No          | ![FNK0107P](Picture/FNK0107P.jpg) |
+| `FNK0107Q`  | 2 Slots    | Yes          | No          | ![FNK0107Q](Picture/FNK0107Q.jpg) |
+| `FNK0107R`  | 4 Slots    | Yes          | No          | ![FNK0107R](Picture/FNK0107R.jpg) |
+| `FNK0107U`  | 1 Slot     | Yes          | 1 SSD       | ![FNK0107U](Picture/FNK0107U.jpg) |
+| `FNK0107V`  | 2 Slots    | Yes          | 1 SSD       | ![FNK0107V](Picture/FNK0107V.jpg) |
+| `FNK0107W`  | 4 Slots    | Yes          | 1 SSD       | ![FNK0107W](Picture/FNK0107W.jpg) |
 
 * **Use command in console**
 

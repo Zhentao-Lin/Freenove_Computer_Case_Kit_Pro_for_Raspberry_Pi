@@ -25,15 +25,14 @@ We offer options with 1, 2, or 4 SSD slots, with or without a display, and with 
 
 Here is one of our product displays to give you a more intuitive understanding of the product's appearance design and structural features:
 
-*FNK0107W - 4-slot version with display, supports 1 SSD installation*
+*FNK0107W - 4-slot version with display, supports 4 SSD installation*
+*Note: Only one SSD is provided at most when actually sold.*
+
 <div align="center">
-  
-*FNK0107W - 4-slot version with display, supports 1 SSD installation*
+
 <img src="Picture/FNK0107W.PT03.jpg" style="width:80%">
 
 </div>
-
-*Note: Only one SSD is provided at most when actually sold.*
 
 For details, please refer to the table below.
 

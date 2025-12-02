@@ -8,13 +8,11 @@ This computer case kit is specifically designed for Raspberry Pi 5. Due to diffe
 
 We offer options with 1, 2, or 4 SSD slots, with or without a display, and with or without one SSD. 
 
-Here are some of our product displays to give you a more intuitive understanding of the product's appearance design and structural features:
+Here is one of our product displays to give you a more intuitive understanding of the product's appearance design and structural features:
 
-<img src="Picture/FNK0107L.PT03.jpg" style="width:80%">
-*FNK0107L - 4-slot version without display, supports 1 SSD installation*
-
-<img src="Picture/FNK0107W.PT03.jpg" style="width:80%">
 *FNK0107W - 4-slot version with display, supports 1 SSD installation*
+<img src="Picture/FNK0107W.PT03.jpg" style="width:80%">
+*Note: Only one SSD is provided at most when actually sold.*
 
 For details, please refer to the table below.
 
